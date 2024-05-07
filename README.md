@@ -7,6 +7,7 @@ Jupuyter Notebook intended to provide an original, introductory tutorial for Lif
 
 
 Train a Convolutional Neural Network to classify MNIST digits split into different tasks:
+
 Task 1: 0 & 1
 
 Task 2: 2 & 3
