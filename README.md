@@ -13,7 +13,7 @@ Task 5: 8 & 9
 
 Test and compare multiple methods for preventing Catastrophic Forgetting:
 <ol type="a">
-  <li>Nieve baseline approach</li>
+  <li>Naive baseline approach</li>
   <li>Interleaved Replay</li>
   <li>Elastic Weight Consolidation</li>
 </ol>
